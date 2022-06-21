@@ -11,7 +11,7 @@ const words = ["computer", "javascript", "coding", "binary",    // Array for wor
             "python", "cubs", "football", "bears",
             "mathematics", "newton", "tyson", "hawking",
             "program", "glasses", "wolves", "air",
-            "black hole", "kelvin", "relativity", "law",
+            "stack", "kelvin", "relativity", "law",
             "asynchronous", "function", "debugging", "modules"];
 
 const random_word = words[Math.floor(Math.random() * words.length)];    // Making more constants for funcs to access.
